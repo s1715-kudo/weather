@@ -275,6 +275,7 @@ class forecast(object):
 		cllocation["name"]=data_location[0]
 		cllocation["名前"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
+		cllocation["geocoding"]=data_location[3]
 		cldata["場所"]=cllocation
 		for n in range(2):
 			cltype=cl.OrderedDict()
