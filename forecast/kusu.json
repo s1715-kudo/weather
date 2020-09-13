@@ -5,23 +5,13 @@
         "所在地": "玖珠郡玖珠町大字帆足"
     },
     "2days": {
-        "2020091315:00": {
-            "日付": "20200913",
-            "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "26",
-            "風速": "4",
-            "風向": "北"
-        },
         "2020091316:00": {
             "日付": "20200913",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "25",
+            "気温": "24",
             "風速": "4",
             "風向": "北"
         },
@@ -31,7 +21,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "24",
+            "気温": "23",
             "風速": "4",
             "風向": "北"
         },

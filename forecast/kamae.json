@@ -5,21 +5,11 @@
         "所在地": "佐伯市蒲江蒲江浦"
     },
     "2days": {
-        "2020091315:00": {
-            "日付": "20200913",
-            "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "28",
-            "風速": "5",
-            "風向": "北"
-        },
         "2020091316:00": {
             "日付": "20200913",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "27",
             "風速": "5",
@@ -28,17 +18,17 @@
         "2020091317:00": {
             "日付": "20200913",
             "時刻": "17:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "27",
+            "気温": "26",
             "風速": "5",
             "風向": "北"
         },
         "2020091318:00": {
             "日付": "20200913",
             "時刻": "18:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "26",
@@ -347,11 +337,11 @@
         },
         "20200915": {
             "日付": "20200915",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/211.png",
-            "天気": "くもりのち時々晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "28",
             "最低気温": "22",
-            "降水確率": "30"
+            "降水確率": "20"
         },
         "20200916": {
             "日付": "20200916",

@@ -5,21 +5,11 @@
         "所在地": "竹田市大字会々"
     },
     "2days": {
-        "2020091315:00": {
-            "日付": "20200913",
-            "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "26",
-            "風速": "2",
-            "風向": "北東"
-        },
         "2020091316:00": {
             "日付": "20200913",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "26",
             "風速": "1",
@@ -347,10 +337,10 @@
         },
         "20200915": {
             "日付": "20200915",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/111.png",
-            "天気": "晴れのち時々くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "28",
-            "最低気温": "19",
+            "最低気温": "18",
             "降水確率": "20"
         },
         "20200916": {
