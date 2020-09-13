@@ -119,8 +119,7 @@ class AmeDAS(object):
 			address=data["所在地"].values[0]
 			if("　" in address):
 				address=address[:address.find("　")]
-			list=[self.name,data["観測所名"].values[0].replace("\n",""),address]
-			return list
+			return [self.name,data["観測所名"].values[0].replace("\n",""),address,geocoding(address)]
 
 	#csvデータを保存
 	def csv_save(self,data):
@@ -140,6 +139,7 @@ class AmeDAS(object):
 		cllocation["名前"]=data_location[0]
 		cllocation["観測所名"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
+		cllocation["geocoding"]=data_location[3]
 		cldata["場所"]=cllocation
 		for i in range(len(data_weather)):
 			if(i!=0):
@@ -162,13 +162,12 @@ class forecast(object):
 		if(not os.path.exists("forecast/")):
 			os.mkdir("forecast/")
 		self.location=location
-		self.geocoding=geocoding(location[2])
 		self.icon_data=self.get_icon()
 		self.all=self.data()
 		self.json_save()
 	
 	def data(self):
-		url="https://weathernews.jp/onebox/"+str(self.geocoding[0])+"/"+str(self.geocoding[1])+"/lang=ja"
+		url="https://weathernews.jp/onebox/"+str(self.location[3][0])+"/"+str(self.location[3][1])+"/lang=ja"
 		html=requests.get(url).content
 		soup=BeautifulSoup(html, 'html.parser')
 		dtl=[]
