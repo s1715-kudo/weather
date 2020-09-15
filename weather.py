@@ -68,7 +68,7 @@ class AmeDAS(object):
 		self.point=int(point)
 		self.name=name
 		self.all=self.alldate()
-		self.csv_save(self.all[0])
+		#self.csv_save(self.all[0])
 		self.json_save(self.all)
 
 	#一日分のデータ取得
