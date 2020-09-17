@@ -9,22 +9,12 @@
         ]
     },
     "2days": {
-        "2020091710:00": {
-            "日付": "20200917",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "2",
-            "気温": "24",
-            "風速": "1",
-            "風向": "南"
-        },
         "2020091711:00": {
             "日付": "20200917",
             "時刻": "11:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "5",
+            "降水量": "2",
             "気温": "24",
             "風速": "1",
             "風向": "南南東"
@@ -34,7 +24,7 @@
             "時刻": "12:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "2",
+            "降水量": "3",
             "気温": "25",
             "風速": "1",
             "風向": "南南東"
@@ -401,35 +391,35 @@
         },
         "20200919": {
             "日付": "20200919",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
-            "最高気温": "24",
-            "最低気温": "16",
-            "降水確率": "30"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/203.png",
+            "天気": "くもり一時雨",
+            "最高気温": "23",
+            "最低気温": "18",
+            "降水確率": "60"
         },
         "20200920": {
             "日付": "20200920",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
-            "最高気温": "23",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/311.png",
+            "天気": "雨のち晴れ",
+            "最高気温": "21",
             "最低気温": "13",
-            "降水確率": "20"
+            "降水確率": "60"
         },
         "20200921": {
             "日付": "20200921",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "23",
+            "最高気温": "24",
             "最低気温": "11",
             "降水確率": "20"
         },
         "20200922": {
             "日付": "20200922",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
-            "最高気温": "21",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
+            "天気": "くもり時々晴れ",
+            "最高気温": "22",
             "最低気温": "12",
-            "降水確率": "20"
+            "降水確率": "30"
         },
         "20200923": {
             "日付": "20200923",
