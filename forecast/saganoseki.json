@@ -4,16 +4,16 @@
         "名前": "佐賀関",
         "所在地": "大分市大字佐賀関字太田",
         "geocoding": [
-            33.2499337,
-            131.8648792
+            33.249873,
+            131.892559
         ]
     },
     "2days": {
         "2020092203:00": {
             "日付": "20200922",
             "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "18",
             "風速": "7",
