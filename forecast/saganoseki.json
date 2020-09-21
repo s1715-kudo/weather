@@ -4,28 +4,28 @@
         "名前": "佐賀関",
         "所在地": "大分市大字佐賀関字太田",
         "geocoding": [
-            33.2499337,
-            131.8648792
+            33.249873,
+            131.892559
         ]
     },
     "2days": {
         "2020092207:00": {
             "日付": "20200922",
             "時刻": "07:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
             "降水量": "0",
-            "気温": "19",
+            "気温": "18",
             "風速": "8",
             "風向": "北東"
         },
         "2020092208:00": {
             "日付": "20200922",
             "時刻": "08:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "21",
+            "気温": "20",
             "風速": "7",
             "風向": "北東"
         },
@@ -35,7 +35,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "23",
+            "気温": "22",
             "風速": "7",
             "風向": "北東"
         },
@@ -414,7 +414,7 @@
             "時刻": "23:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "2",
+            "降水量": "1",
             "気温": "21",
             "風速": "10",
             "風向": "北北東"
