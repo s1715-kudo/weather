@@ -12,10 +12,10 @@
         "2020092319:00": {
             "日付": "20200923",
             "時刻": "19:00",
-            "icon": "https://smtgvs.cdn.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
-            "気温": "20",
+            "icon": "https://smtgvs.cdn.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
+            "気温": "21",
             "風速": "1",
             "風向": "北東"
         },
