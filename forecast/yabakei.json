@@ -14,7 +14,7 @@
             "時刻": "16:00",
             "icon": "https://smtgvs.cdn.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "3",
+            "降水量": "5",
             "気温": "19",
             "風速": "2",
             "風向": "北東"
@@ -24,8 +24,8 @@
             "時刻": "17:00",
             "icon": "https://smtgvs.cdn.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "5",
-            "気温": "18",
+            "降水量": "1",
+            "気温": "19",
             "風速": "2",
             "風向": "北東"
         },
@@ -34,7 +34,7 @@
             "時刻": "18:00",
             "icon": "https://smtgvs.cdn.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
-            "降水量": "3",
+            "降水量": "2",
             "気温": "18",
             "風速": "2",
             "風向": "北東"
