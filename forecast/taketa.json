@@ -12,10 +12,10 @@
         "2020092514:00": {
             "日付": "20200925",
             "時刻": "14:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
-            "気温": "24",
+            "気温": "27",
             "風速": "2",
             "風向": "北"
         },
@@ -25,7 +25,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "24",
+            "気温": "26",
             "風速": "2",
             "風向": "北"
         },
@@ -35,7 +35,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "23",
+            "気温": "25",
             "風速": "2",
             "風向": "北"
         },
@@ -55,7 +55,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "21",
+            "気温": "22",
             "風速": "2",
             "風向": "北北西"
         },
@@ -85,7 +85,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "19",
+            "気温": "20",
             "風速": "2",
             "風向": "北西"
         },
@@ -145,7 +145,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "17",
+            "気温": "18",
             "風速": "1",
             "風向": "西南西"
         },
@@ -353,8 +353,8 @@
     "10days": {
         "20200926": {
             "日付": "20200926",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/211.png",
+            "天気": "くもりのち時々晴れ",
             "最高気温": "23",
             "最低気温": "17",
             "降水確率": "30"
