@@ -11,7 +11,7 @@ name: cron-deploy
 #      - '**'
 on:
   schedule:
-    - cron:  '*/20 * * * *'
+    #- cron:  '*/20 * * * *'
 
 # ジョブの記述
 jobs:
