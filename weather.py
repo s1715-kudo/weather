@@ -17,9 +17,38 @@ import urllib.request
 GOOGLE_MAP_API_KEY="AIzaSyCBPpt5PJauc95bnv5xC_yRDXSqPc9PlHw"
 
 def geocoding(place):
+	path="geocoding.csv"
+	csvrs=[]
+	with open(path,mode="r") as f:
+		reader=csv.reader(f)
+		for row in reader:
+			r=[]
+			for i in range(len(row)):
+				d=row[i]
+				if(i!=0):
+					d=float(d)
+				r.append(d)
+			csvrs.append(r)
+		f.close()
+	
+	if(len(csvrs)!=0):
+		for i in csvrs:
+			if(len(i)==3):
+				if(i[0]==place):
+					return [i[1],i[2]]
+
 	gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
 	geocode_result = gmaps.geocode(place)
-	return [geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
+	data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
+	csvrs.append(data)
+	
+	with open(path,mode="w",newline="") as f:
+		writer=csv.writer(f)
+		for l in csvrs:
+			writer.writerow(l)
+		f.close()
+	
+	return [data[1],data[2]]
 
 def nearDate(d,list):
 	x=[abs(d-l) for l in list]
