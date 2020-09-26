@@ -19,18 +19,18 @@ GOOGLE_MAP_API_KEY="AIzaSyCBPpt5PJauc95bnv5xC_yRDXSqPc9PlHw"
 def geocoding(place):
 	path="geocoding.csv"
 	csvrs=[]
-	with open(path,mode="r") as f:
-		reader=csv.reader(f)
-		for row in reader:
-			r=[]
-			for i in range(len(row)):
-				d=row[i]
-				if(i!=0):
-					d=float(d)
-				r.append(d)
-			csvrs.append(r)
-		f.close()
-	
+	if(os.path.exists(path)):
+		with open(path,mode="r") as f:
+			reader=csv.reader(f)
+			for row in reader:
+				r=[]
+				for i in range(len(row)):
+					d=row[i]
+					if(i!=0):
+						d=float(d)
+					r.append(d)
+				csvrs.append(r)
+			f.close()	
 	if(len(csvrs)!=0):
 		for i in csvrs:
 			if(len(i)==3):
@@ -47,7 +47,6 @@ def geocoding(place):
 		for l in csvrs:
 			writer.writerow(l)
 		f.close()
-	
 	return [data[1],data[2]]
 
 def nearDate(d,list):
