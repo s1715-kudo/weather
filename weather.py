@@ -20,7 +20,7 @@ def geocoding(place):
 	path="geocoding.csv"
 	csvrs=[]
 	if(os.path.exists(path)):
-		with open(path,mode="r") as f:
+		with open(path,mode="r","Shift-JIS") as f:
 			reader=csv.reader(f)
 			for row in reader:
 				r=[]
@@ -42,7 +42,7 @@ def geocoding(place):
 	data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
 	csvrs.append(data)
 	
-	with open(path,mode="w",newline="") as f:
+	with open(path,mode="w",newline="","Shift-JIS") as f:
 		writer=csv.writer(f)
 		for l in csvrs:
 			writer.writerow(l)
