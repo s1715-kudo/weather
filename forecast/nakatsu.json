@@ -35,7 +35,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "23",
+            "気温": "22",
             "風速": "1",
             "風向": "東"
         },
@@ -344,7 +344,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/211.png",
             "天気": "くもりのち時々晴れ",
             "最高気温": "25",
-            "最低気温": "18",
+            "最低気温": "17",
             "降水確率": "30"
         },
         "20201002": {
