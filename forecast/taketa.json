@@ -12,8 +12,8 @@
         "2020100104:00": {
             "日付": "20201001",
             "時刻": "04:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "14",
             "風速": "1",
@@ -22,8 +22,8 @@
         "2020100105:00": {
             "日付": "20201001",
             "時刻": "05:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "14",
             "風速": "1",
@@ -338,6 +338,36 @@
             "気温": "26",
             "風速": "0",
             "風向": "南南西"
+        },
+        "2020100213:00": {
+            "日付": "20201002",
+            "時刻": "13:00",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
+            "降水量": "0",
+            "気温": "27",
+            "風速": "0",
+            "風向": "東北東"
+        },
+        "2020100214:00": {
+            "日付": "20201002",
+            "時刻": "14:00",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
+            "降水量": "0",
+            "気温": "27",
+            "風速": "1",
+            "風向": "東北東"
+        },
+        "2020100215:00": {
+            "日付": "20201002",
+            "時刻": "15:00",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
+            "降水量": "0",
+            "気温": "27",
+            "風速": "1",
+            "風向": "東北東"
         }
     },
     "10days": {
@@ -346,7 +376,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "27",
-            "最低気温": "14",
+            "最低気温": "13",
             "降水確率": "20"
         },
         "20201003": {
