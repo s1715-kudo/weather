@@ -11,16 +11,6 @@
         "基準日10": "20201008"
     },
     "2days": {
-        "2020100702:00": {
-            "日付": "20201007",
-            "時刻": "02:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "19",
-            "風速": "10",
-            "風向": "北北東"
-        },
         "2020100703:00": {
             "日付": "20201007",
             "時刻": "03:00",
@@ -307,7 +297,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "20",
+            "気温": "19",
             "風速": "11",
             "風向": "北北東"
         },
@@ -327,7 +317,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "21",
+            "気温": "19",
             "風速": "11",
             "風向": "北北東"
         },
@@ -337,27 +327,27 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "21",
+            "気温": "20",
             "風速": "11",
             "風向": "北北東"
         },
         "2020100811:00": {
             "日付": "20201008",
             "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
-            "気温": "21",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
+            "気温": "20",
             "風速": "11",
             "風向": "北北東"
         },
         "2020100812:00": {
             "日付": "20201008",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
-            "気温": "21",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
+            "気温": "20",
             "風速": "11",
             "風向": "北北東"
         }
