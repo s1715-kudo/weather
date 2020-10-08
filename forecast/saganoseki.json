@@ -44,9 +44,9 @@
         "2020100909:00": {
             "日付": "20201009",
             "時刻": "09:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/850.png",
-            "天気": "大雨・嵐",
-            "降水量": "2",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "21",
             "風速": "15",
             "風向": "北北東"
