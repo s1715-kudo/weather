@@ -91,8 +91,8 @@ def stringDate(date):
     
 class AmeDAS(object):
 	def __init__(self,name,point):
-		if(not os.path.exists("past_weather/")):
-			os.mkdir("past_weather/")
+		if(not os.path.exists("amedas/")):
+			os.mkdir("amedas/")
 		self.point=int(point)
 		self.name=name
 		self.all=self.alldate()
@@ -151,7 +151,7 @@ class AmeDAS(object):
 
 	#csvデータを保存
 	def csv_save(self,data):
-		with open("past_weather/"+self.name+".csv",mode='w',encoding='utf-8') as f:
+		with open("amedas/"+self.name+".csv",mode='w',encoding='utf-8') as f:
 			writer=csv.writer(f)
 			for l in data:
 				writer.writerow(l)
@@ -168,7 +168,6 @@ class AmeDAS(object):
 		cllocation["観測所名"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
 		cllocation["geocoding"]=data_location[3]
-		cllocation["基準日"]=data_weather[1][0]
 		cldata["場所"]=cllocation
 		for i in range(len(data_weather)):
 			if(i!=0):
@@ -182,7 +181,7 @@ class AmeDAS(object):
 							d_str='0'+data_weather[i][j]
 						str+=d_str
 				cldata[str]=cld
-		f=open("past_weather/"+self.name+".json",'w',encoding="utf-8")
+		f=open("amedas/"+self.name+".json",'w',encoding="utf-8")
 		json.dump(cldata,f,indent=4,ensure_ascii=False)
 		f.close()
 		
@@ -305,8 +304,6 @@ class forecast(object):
 		cllocation["名前"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
 		cllocation["geocoding"]=data_location[3]
-		cllocation["基準日2"]=self.all[0][1][0]
-		cllocation["基準日10"]=self.all[1][1][0]
 		cldata["場所"]=cllocation
 		for n in range(2):
 			cltype=cl.OrderedDict()
