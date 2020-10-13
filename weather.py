@@ -168,7 +168,6 @@ class AmeDAS(object):
 		cllocation["観測所名"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
 		cllocation["geocoding"]=data_location[3]
-		cllocation["基準日"]=data_weather[1][0]
 		cldata["場所"]=cllocation
 		for i in range(len(data_weather)):
 			if(i!=0):
@@ -305,8 +304,6 @@ class forecast(object):
 		cllocation["名前"]=data_location[1]
 		cllocation["所在地"]=data_location[2]
 		cllocation["geocoding"]=data_location[3]
-		cllocation["基準日2"]=self.all[0][1][0]
-		cllocation["基準日10"]=self.all[1][1][0]
 		cldata["場所"]=cllocation
 		for n in range(2):
 			cltype=cl.OrderedDict()
