@@ -91,8 +91,8 @@ def stringDate(date):
     
 class AmeDAS(object):
 	def __init__(self,name,point):
-		if(not os.path.exists("past_weather/")):
-			os.mkdir("past_weather/")
+		if(not os.path.exists("amedas/")):
+			os.mkdir("amedas/")
 		self.point=int(point)
 		self.name=name
 		self.all=self.alldate()
@@ -151,7 +151,7 @@ class AmeDAS(object):
 
 	#csvデータを保存
 	def csv_save(self,data):
-		with open("past_weather/"+self.name+".csv",mode='w',encoding='utf-8') as f:
+		with open("amedas/"+self.name+".csv",mode='w',encoding='utf-8') as f:
 			writer=csv.writer(f)
 			for l in data:
 				writer.writerow(l)
@@ -181,7 +181,7 @@ class AmeDAS(object):
 							d_str='0'+data_weather[i][j]
 						str+=d_str
 				cldata[str]=cld
-		f=open("past_weather/"+self.name+".json",'w',encoding="utf-8")
+		f=open("amedas/"+self.name+".json",'w',encoding="utf-8")
 		json.dump(cldata,f,indent=4,ensure_ascii=False)
 		f.close()
 		
