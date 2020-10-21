@@ -9,20 +9,10 @@
         ]
     },
     "2days": {
-        "2020102110:00": {
-            "日付": "20201021",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "21",
-            "風速": "6",
-            "風向": "南東"
-        },
         "2020102111:00": {
             "日付": "20201021",
             "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "22",
@@ -32,10 +22,10 @@
         "2020102112:00": {
             "日付": "20201021",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
-            "気温": "22",
+            "気温": "23",
             "風速": "7",
             "風向": "南東"
         },
@@ -401,25 +391,25 @@
         },
         "20201023": {
             "日付": "20201023",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
-            "最高気温": "18",
-            "最低気温": "12",
-            "降水確率": "20"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/103.png",
+            "天気": "晴れ一時雨",
+            "最高気温": "19",
+            "最低気温": "13",
+            "降水確率": "60"
         },
         "20201024": {
             "日付": "20201024",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "19",
-            "最低気温": "10",
+            "最高気温": "18",
+            "最低気温": "8",
             "降水確率": "20"
         },
         "20201025": {
             "日付": "20201025",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "21",
+            "最高気温": "20",
             "最低気温": "8",
             "降水確率": "20"
         },
