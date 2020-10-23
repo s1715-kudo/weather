@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2020102402:00": {
-            "日付": "20201024",
-            "時刻": "02:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "11",
-            "風速": "6",
-            "風向": "西北西"
-        },
         "2020102403:00": {
             "日付": "20201024",
             "時刻": "03:00",
@@ -275,7 +265,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "11",
+            "気温": "10",
             "風速": "4",
             "風向": "西北西"
         },
@@ -295,7 +285,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "10",
+            "気温": "9",
             "風速": "4",
             "風向": "西北西"
         },
@@ -315,7 +305,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "12",
+            "気温": "11",
             "風速": "3",
             "風向": "西北西"
         },
@@ -325,7 +315,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "15",
+            "気温": "14",
             "風速": "3",
             "風向": "北西"
         },
@@ -352,10 +342,10 @@
         "2020102512:00": {
             "日付": "20201025",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "21",
+            "気温": "20",
             "風速": "4",
             "風向": "北北西"
         }
