@@ -445,11 +445,11 @@
         },
         "20201104": {
             "日付": "20201104",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "最高気温": "21",
-            "最低気温": "7",
-            "降水確率": "10"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "最高気温": "19",
+            "最低気温": "12",
+            "降水確率": "40"
         }
     }
 }
