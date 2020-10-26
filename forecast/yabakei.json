@@ -9,23 +9,13 @@
         ]
     },
     "2days": {
-        "2020102610:00": {
-            "日付": "20201026",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "15",
-            "風速": "1",
-            "風向": "北"
-        },
         "2020102611:00": {
             "日付": "20201026",
             "時刻": "11:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "18",
+            "気温": "19",
             "風速": "2",
             "風向": "北"
         },
@@ -35,7 +25,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "20",
+            "気温": "21",
             "風速": "2",
             "風向": "北"
         },
@@ -401,58 +391,58 @@
         },
         "20201028": {
             "日付": "20201028",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "最高気温": "21",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
+            "最高気温": "23",
             "最低気温": "6",
-            "降水確率": "40"
+            "降水確率": "20"
         },
         "20201029": {
             "日付": "20201029",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "最高気温": "18",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
+            "天気": "くもり時々晴れ",
+            "最高気温": "20",
             "最低気温": "8",
-            "降水確率": "40"
+            "降水確率": "30"
         },
         "20201030": {
             "日付": "20201030",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "17",
-            "最低気温": "5",
-            "降水確率": "30"
+            "最低気温": "6",
+            "降水確率": "20"
         },
         "20201031": {
             "日付": "20201031",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "17",
-            "最低気温": "4",
+            "最低気温": "3",
             "降水確率": "20"
         },
         "20201101": {
             "日付": "20201101",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "20",
-            "最低気温": "3",
-            "降水確率": "30"
+            "最低気温": "2",
+            "降水確率": "20"
         },
         "20201102": {
             "日付": "20201102",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
             "天気": "くもり一時雨",
-            "最高気温": "20",
-            "最低気温": "9",
+            "最高気温": "19",
+            "最低気温": "10",
             "降水確率": "60"
         },
         "20201103": {
             "日付": "20201103",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "14",
-            "最低気温": "2",
+            "最高気温": "16",
+            "最低気温": "5",
             "降水確率": "20"
         },
         "20201104": {
@@ -460,15 +450,15 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
             "天気": "くもり時々晴れ",
             "最高気温": "13",
-            "最低気温": "0",
+            "最低気温": "-2",
             "降水確率": "30"
         },
         "20201105": {
             "日付": "20201105",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "16",
-            "最低気温": "1",
+            "最高気温": "15",
+            "最低気温": "-4",
             "降水確率": "20"
         }
     }
