@@ -119,7 +119,7 @@ class AmeDAS(object):
 		#データ整理
 		s0=soup.find(id='tbl_list').find_all('td')
 		row=int(len(s0)/column)#横列設定
-		list=[[s0[i*row+s].get_text().replace(u'\xa0','-') for s in range(row)] for i in range(column)]
+		list=[[s0[i*row+s].get_text().replace(u'\xa0','-').replace(u'休止中','-') for s in range(row)] for i in range(column)]
 		for l in list:
 			l.insert(0,date_n)
 		
