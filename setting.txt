@@ -17,3 +17,8 @@
 83401,saiki
 83431,ume
 83476,kamae
+14163,sapporo
+44132,tokyo
+51106,nagoya
+62078,osaka
+82182,fukuoka
