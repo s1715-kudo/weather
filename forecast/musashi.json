@@ -15,7 +15,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "17",
+            "気温": "18",
             "風速": "5",
             "風向": "東"
         },
@@ -32,7 +32,7 @@
         "2020103113:00": {
             "日付": "20201031",
             "時刻": "13:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "20",
@@ -410,7 +410,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "16",
-            "最低気温": "6",
+            "最低気温": "7",
             "降水確率": "20"
         },
         "20201105": {
@@ -434,30 +434,30 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
             "天気": "くもり一時雨",
             "最高気温": "21",
-            "最低気温": "12",
+            "最低気温": "14",
             "降水確率": "60"
         },
         "20201108": {
             "日付": "20201108",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
-            "最高気温": "20",
-            "最低気温": "13",
-            "降水確率": "30"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
+            "最高気温": "19",
+            "最低気温": "12",
+            "降水確率": "20"
         },
         "20201109": {
             "日付": "20201109",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "20",
-            "最低気温": "11",
+            "最高気温": "19",
+            "最低気温": "9",
             "降水確率": "20"
         },
         "20201110": {
             "日付": "20201110",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "19",
+            "最高気温": "22",
             "最低気温": "10",
             "降水確率": "20"
         }
