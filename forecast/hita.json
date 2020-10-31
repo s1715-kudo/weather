@@ -22,7 +22,7 @@
         "2020110108:00": {
             "日付": "20201101",
             "時刻": "08:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "10",
@@ -35,7 +35,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "14",
+            "気温": "13",
             "風速": "1",
             "風向": "南東"
         },
