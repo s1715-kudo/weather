@@ -9,30 +9,20 @@
         ]
     },
     "2days": {
-        "2020110810:00": {
-            "日付": "20201108",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "14",
-            "風速": "4",
-            "風向": "北西"
-        },
         "2020110811:00": {
             "日付": "20201108",
             "時刻": "11:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "16",
+            "気温": "15",
             "風速": "5",
             "風向": "北西"
         },
         "2020110812:00": {
             "日付": "20201108",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "17",
@@ -404,14 +394,14 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "13",
-            "最低気温": "0",
+            "最低気温": "1",
             "降水確率": "20"
         },
         "20201111": {
             "日付": "20201111",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "14",
+            "最高気温": "13",
             "最低気温": "-1",
             "降水確率": "20"
         },
@@ -420,16 +410,16 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "16",
-            "最低気温": "0",
+            "最低気温": "1",
             "降水確率": "20"
         },
         "20201113": {
             "日付": "20201113",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "18",
-            "最低気温": "2",
-            "降水確率": "30"
+            "最低気温": "1",
+            "降水確率": "20"
         },
         "20201114": {
             "日付": "20201114",
