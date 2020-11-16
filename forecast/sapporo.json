@@ -12,10 +12,10 @@
         "2020111623:00": {
             "日付": "20201116",
             "時刻": "23:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
+            "天気": "雪",
             "降水量": "0",
-            "気温": "4",
+            "気温": "5",
             "風速": "5",
             "風向": "西北西"
         },
