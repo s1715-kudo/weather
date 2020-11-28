@@ -442,24 +442,24 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "14",
-            "最低気温": "1",
+            "最低気温": "-1",
             "降水確率": "20"
         },
         "20201207": {
             "日付": "20201207",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "13",
+            "最高気温": "15",
             "最低気温": "-2",
             "降水確率": "20"
         },
         "20201208": {
             "日付": "20201208",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
-            "天気": "くもり一時雨",
-            "最高気温": "15",
-            "最低気温": "2",
-            "降水確率": "60"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "最高気温": "18",
+            "最低気温": "1",
+            "降水確率": "40"
         }
     }
 }
