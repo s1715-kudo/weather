@@ -22,7 +22,7 @@
         "2020113017:00": {
             "日付": "20201130",
             "時刻": "17:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "13",
@@ -343,8 +343,8 @@
             "日付": "20201202",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
             "天気": "くもり一時雨",
-            "最高気温": "13",
-            "最低気温": "8",
+            "最高気温": "11",
+            "最低気温": "9",
             "降水確率": "60"
         },
         "20201203": {
