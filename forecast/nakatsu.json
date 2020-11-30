@@ -9,23 +9,13 @@
         ]
     },
     "2days": {
-        "2020113015:00": {
-            "日付": "20201130",
-            "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "11",
-            "風速": "7",
-            "風向": "北西"
-        },
         "2020113016:00": {
             "日付": "20201130",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
-            "気温": "11",
+            "気温": "10",
             "風速": "7",
             "風向": "北西"
         },
