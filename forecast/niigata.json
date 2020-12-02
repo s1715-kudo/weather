@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2020120302:00": {
-            "日付": "20201203",
-            "時刻": "02:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "6",
-            "風速": "4",
-            "風向": "東北東"
-        },
         "2020120303:00": {
             "日付": "20201203",
             "時刻": "03:00",
@@ -105,9 +95,9 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "10",
+            "気温": "11",
             "風速": "7",
-            "風向": "西南西"
+            "風向": "南西"
         },
         "2020120312:00": {
             "日付": "20201203",
@@ -116,8 +106,8 @@
             "天気": "くもり",
             "降水量": "0",
             "気温": "11",
-            "風速": "4",
-            "風向": "西北西"
+            "風速": "13",
+            "風向": "南西"
         },
         "2020120313:00": {
             "日付": "20201203",
@@ -132,20 +122,20 @@
         "2020120314:00": {
             "日付": "20201203",
             "時刻": "14:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
-            "気温": "11",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
+            "気温": "10",
             "風速": "7",
             "風向": "北"
         },
         "2020120315:00": {
             "日付": "20201203",
             "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
-            "気温": "10",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
+            "気温": "9",
             "風速": "7",
             "風向": "北"
         },
@@ -155,7 +145,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
             "降水量": "1",
-            "気温": "10",
+            "気温": "9",
             "風速": "8",
             "風向": "北"
         },
@@ -165,7 +155,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
             "降水量": "1",
-            "気温": "9",
+            "気温": "8",
             "風速": "9",
             "風向": "北"
         },
@@ -175,7 +165,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
             "降水量": "1",
-            "気温": "9",
+            "気温": "8",
             "風速": "10",
             "風向": "北"
         },
@@ -205,7 +195,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
             "天気": "雨",
             "降水量": "1",
-            "気温": "7",
+            "気温": "8",
             "風速": "8",
             "風向": "北"
         },
@@ -262,9 +252,9 @@
         "2020120403:00": {
             "日付": "20201204",
             "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "7",
             "風速": "7",
             "風向": "北北西"
@@ -292,8 +282,8 @@
         "2020120406:00": {
             "日付": "20201204",
             "時刻": "06:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "6",
             "風速": "5",
@@ -315,7 +305,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "7",
+            "気温": "6",
             "風速": "5",
             "風向": "北西"
         },
