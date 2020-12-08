@@ -9,30 +9,10 @@
         ]
     },
     "2days": {
-        "2020120816:00": {
-            "日付": "20201208",
-            "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "14",
-            "風速": "7",
-            "風向": "西北西"
-        },
-        "2020120817:00": {
-            "日付": "20201208",
-            "時刻": "17:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "13",
-            "風速": "6",
-            "風向": "西北西"
-        },
         "2020120818:00": {
             "日付": "20201208",
             "時刻": "18:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "13",
@@ -42,7 +22,7 @@
         "2020120819:00": {
             "日付": "20201208",
             "時刻": "19:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "12",
@@ -52,7 +32,7 @@
         "2020120820:00": {
             "日付": "20201208",
             "時刻": "20:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "11",
@@ -341,11 +321,11 @@
         },
         "20201210": {
             "日付": "20201210",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/211.png",
+            "天気": "くもりのち時々晴れ",
             "最高気温": "18",
             "最低気温": "9",
-            "降水確率": "20"
+            "降水確率": "30"
         },
         "20201211": {
             "日付": "20201211",
