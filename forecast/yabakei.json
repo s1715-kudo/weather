@@ -9,20 +9,10 @@
         ]
     },
     "2days": {
-        "2020120911:00": {
-            "日付": "20201209",
-            "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "10",
-            "風速": "2",
-            "風向": "北東"
-        },
         "2020120912:00": {
             "日付": "20201209",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "11",
@@ -32,7 +22,7 @@
         "2020120913:00": {
             "日付": "20201209",
             "時刻": "13:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "12",
@@ -433,25 +423,25 @@
             "日付": "20201216",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "7",
-            "最低気温": "-6",
+            "最高気温": "4",
+            "最低気温": "-7",
             "降水確率": "20"
         },
         "20201217": {
             "日付": "20201217",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
-            "最高気温": "9",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
+            "最高気温": "8",
             "最低気温": "-5",
-            "降水確率": "30"
+            "降水確率": "20"
         },
         "20201218": {
             "日付": "20201218",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "最高気温": "10",
-            "最低気温": "-4",
-            "降水確率": "40"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
+            "天気": "くもり一時雪",
+            "最高気温": "8",
+            "最低気温": "-3",
+            "降水確率": "60"
         },
         "20201219": {
             "日付": "20201219",
