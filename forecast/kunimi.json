@@ -9,20 +9,10 @@
         ]
     },
     "2days": {
-        "2020121011:00": {
-            "日付": "20201210",
-            "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "14",
-            "風速": "2",
-            "風向": "西北西"
-        },
         "2020121012:00": {
             "日付": "20201210",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "15",
@@ -431,35 +421,35 @@
         },
         "20201217": {
             "日付": "20201217",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
-            "最高気温": "10",
-            "最低気温": "2",
-            "降水確率": "20"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "最高気温": "9",
+            "最低気温": "1",
+            "降水確率": "40"
         },
         "20201218": {
             "日付": "20201218",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
             "天気": "くもり一時雨",
             "最高気温": "10",
-            "最低気温": "2",
+            "最低気温": "3",
             "降水確率": "60"
         },
         "20201219": {
             "日付": "20201219",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
-            "最高気温": "10",
-            "最低気温": "2",
+            "最高気温": "5",
+            "最低気温": "0",
             "降水確率": "40"
         },
         "20201220": {
             "日付": "20201220",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
-            "最高気温": "10",
-            "最低気温": "1",
-            "降水確率": "20"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "最高気温": "9",
+            "最低気温": "0",
+            "降水確率": "40"
         }
     }
 }
