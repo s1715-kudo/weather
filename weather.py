@@ -19,6 +19,7 @@ GOOGLE_MAP_API_KEY="AIzaSyCBPpt5PJauc95bnv5xC_yRDXSqPc9PlHw"
 def geocoding(place):
 	path="geocoding.csv"
 	csvrs=[]
+	mflag=true
 	if(os.path.exists(path)):
 		with open(path,mode="r",encoding="Shift-JIS") as f:
 			reader=csv.reader(f)
@@ -35,19 +36,21 @@ def geocoding(place):
 		for i in csvrs:
 			if(len(i)==3):
 				if(i[0]==place):
+					mflag=false
 					return [i[1],i[2]]
-
-	gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
-	geocode_result = gmaps.geocode(place)
-	data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
-	csvrs.append(data)
-	
-	with open(path,mode="w",newline="",encoding="Shift-JIS") as f:
-		writer=csv.writer(f)
-		for l in csvrs:
-			writer.writerow(l)
-		f.close()
-	return [data[1],data[2]]
+	if(mflag){
+		gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
+		geocode_result = gmaps.geocode(place)
+		data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
+		csvrs.append(data)
+		
+		with open(path,mode="w",newline="",encoding="Shift-JIS") as f:
+			writer=csv.writer(f)
+			for l in csvrs:
+				writer.writerow(l)
+			f.close()
+		return [data[1],data[2]]
+	}
 
 def nearDate(d,list):
 	x=[abs(d-l) for l in list]
