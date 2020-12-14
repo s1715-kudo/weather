@@ -17,29 +17,29 @@ import urllib.request
 GOOGLE_MAP_API_KEY="AIzaSyCBPpt5PJauc95bnv5xC_yRDXSqPc9PlHw"
 
 def geocoding(place):
-	path="geocoding.csv"
+	paths=["geocoding.csv","https://raw.githubusercontent.com/s1715-kudo/weather/gh-pages/geocoding.csv"]
 	csvrs=[]
 	mflag=True
-	if(os.path.exists(path)):
-		with open(path,mode="r",encoding="Shift-JIS") as f:
-			reader=csv.reader(f)
-			for row in reader:
-				r=[]
-				for i in range(len(row)):
-					d=row[i]
-					if(i!=0):
-						d=float(d)
-					r.append(d)
-				csvrs.append(r)
-			f.close()	
-	if(len(csvrs)!=0):
-		for i in csvrs:
-			if(len(i)==3):
-				if(i[0]==place):
-					mflag=False
-					return [i[1],i[2]]
+	for path in paths:
+		if(os.path.exists(path)):
+			with open(path,mode="r",encoding="Shift-JIS") as f:
+				reader=csv.reader(f)
+				for row in reader:
+					r=[]
+					for i in range(len(row)):
+						d=row[i]
+						if(i!=0):
+							d=float(d)
+						r.append(d)
+					csvrs.append(r)
+				f.close()	
+		if(len(csvrs)!=0):
+			for i in csvrs:
+				if(len(i)==3):
+					if(i[0]==place):
+						mflag=False
+						return [i[1],i[2]]
 	if(mflag):
-		print(place)
 		gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
 		geocode_result = gmaps.geocode(place)
 		data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
