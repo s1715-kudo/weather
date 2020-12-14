@@ -19,7 +19,7 @@ GOOGLE_MAP_API_KEY="AIzaSyCBPpt5PJauc95bnv5xC_yRDXSqPc9PlHw"
 def geocoding(place):
 	path="geocoding.csv"
 	csvrs=[]
-	mflag=true
+	mflag=True
 	if(os.path.exists(path)):
 		with open(path,mode="r",encoding="Shift-JIS") as f:
 			reader=csv.reader(f)
@@ -36,7 +36,7 @@ def geocoding(place):
 		for i in csvrs:
 			if(len(i)==3):
 				if(i[0]==place):
-					mflag=false
+					mflag=False
 					return [i[1],i[2]]
 	if(mflag):
 		gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
