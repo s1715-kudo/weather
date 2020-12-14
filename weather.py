@@ -38,7 +38,7 @@ def geocoding(place):
 				if(i[0]==place):
 					mflag=false
 					return [i[1],i[2]]
-	if(mflag){
+	if(mflag):
 		gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
 		geocode_result = gmaps.geocode(place)
 		data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
@@ -50,7 +50,6 @@ def geocoding(place):
 				writer.writerow(l)
 			f.close()
 		return [data[1],data[2]]
-	}
 
 def nearDate(d,list):
 	x=[abs(d-l) for l in list]
