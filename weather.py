@@ -39,6 +39,7 @@ def geocoding(place):
 					mflag=False
 					return [i[1],i[2]]
 	if(mflag):
+		print(place)
 		gmaps = googlemaps.Client(key=GOOGLE_MAP_API_KEY)
 		geocode_result = gmaps.geocode(place)
 		data = [place,geocode_result[0]["geometry"]["location"]["lat"],geocode_result[0]["geometry"]["location"]["lng"]]
