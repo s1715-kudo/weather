@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import weather
 import csv
-import datetime
+from datetime import datetime, timedelta, timezone
 
 def main():
 	past=[]
@@ -14,7 +14,7 @@ def main():
 		f.close()
 		
 	with open("logtime.txt",mode='w') as f:
-		f.write(datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S"))
+		f.write(datetime.now(timezone(timedelta(hours=+9),'JST')).strftime("%Y/%m/%d %H:%M:%S"))
 
 if __name__=='__main__':
 	main()
