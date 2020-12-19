@@ -14,7 +14,7 @@ def main():
 		f.close()
 		
 	with open("logtime.txt",mode='w') as f:
-		f.write(dt_now.strftime("%Y/%m/%d %H:%M:%S"))
+		f.write(datetime.datetime.now().strftime("%Y/%m/%d %H:%M:%S"))
 
 if __name__=='__main__':
 	main()
