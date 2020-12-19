@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import weather
 import csv
-import datetime
+from datetime import datetime, timedelta, timezone
 
 def main():
 	past=[]
