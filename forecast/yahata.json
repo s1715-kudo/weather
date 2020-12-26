@@ -9,26 +9,6 @@
         ]
     },
     "2days": {
-        "2020122702:00": {
-            "日付": "20201227",
-            "時刻": "02:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "3",
-            "風速": "2",
-            "風向": "南南東"
-        },
-        "2020122703:00": {
-            "日付": "20201227",
-            "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "3",
-            "風速": "2",
-            "風向": "南東"
-        },
         "2020122704:00": {
             "日付": "20201227",
             "時刻": "04:00",
@@ -252,9 +232,9 @@
         "2020122802:00": {
             "日付": "20201228",
             "時刻": "02:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
+            "天気": "雨",
+            "降水量": "2",
             "気温": "9",
             "風速": "3",
             "風向": "北東"
@@ -262,9 +242,9 @@
         "2020122803:00": {
             "日付": "20201228",
             "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
+            "天気": "雨",
+            "降水量": "1",
             "気温": "9",
             "風速": "2",
             "風向": "東北東"
@@ -282,9 +262,9 @@
         "2020122805:00": {
             "日付": "20201228",
             "時刻": "05:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "9",
             "風速": "2",
             "風向": "東"
@@ -292,9 +272,9 @@
         "2020122806:00": {
             "日付": "20201228",
             "時刻": "06:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "8",
             "風速": "2",
             "風向": "東"
@@ -302,9 +282,9 @@
         "2020122807:00": {
             "日付": "20201228",
             "時刻": "07:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "8",
             "風速": "1",
             "風向": "東北東"
@@ -312,9 +292,9 @@
         "2020122808:00": {
             "日付": "20201228",
             "時刻": "08:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/300.png",
-            "天気": "雨",
-            "降水量": "1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "8",
             "風速": "1",
             "風向": "北東"
@@ -342,8 +322,8 @@
         "2020122811:00": {
             "日付": "20201228",
             "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "12",
             "風速": "3",
@@ -352,7 +332,7 @@
         "2020122812:00": {
             "日付": "20201228",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "13",
