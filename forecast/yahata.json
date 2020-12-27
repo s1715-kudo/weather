@@ -9,31 +9,11 @@
         ]
     },
     "2days": {
-        "2020122710:00": {
-            "日付": "20201227",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "9",
-            "風速": "3",
-            "風向": "東南東"
-        },
-        "2020122711:00": {
-            "日付": "20201227",
-            "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "11",
-            "風速": "4",
-            "風向": "東南東"
-        },
         "2020122712:00": {
             "日付": "20201227",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "12",
             "風速": "4",
@@ -401,19 +381,19 @@
         },
         "20201229": {
             "日付": "20201229",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/214.png",
-            "天気": "くもりのち一時雨",
-            "最高気温": "15",
-            "最低気温": "6",
-            "降水確率": "70"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/114.png",
+            "天気": "晴れのち一時雨",
+            "最高気温": "14",
+            "最低気温": "5",
+            "降水確率": "60"
         },
         "20201230": {
             "日付": "20201230",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
-            "天気": "くもり一時雪",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/315.png",
+            "天気": "雨のち時々雪",
             "最高気温": "8",
-            "最低気温": "0",
-            "降水確率": "60"
+            "最低気温": "-1",
+            "降水確率": "90"
         },
         "20201231": {
             "日付": "20201231",
@@ -428,48 +408,48 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
             "天気": "くもり一時雪",
             "最高気温": "6",
-            "最低気温": "1",
+            "最低気温": "0",
             "降水確率": "60"
         },
         "20210102": {
             "日付": "20210102",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
-            "天気": "くもり時々晴れ",
-            "最高気温": "8",
-            "最低気温": "1",
-            "降水確率": "30"
-        },
-        "20210103": {
-            "日付": "20210103",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "最高気温": "9",
             "最低気温": "2",
             "降水確率": "40"
         },
+        "20210103": {
+            "日付": "20210103",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
+            "天気": "くもり時々晴れ",
+            "最高気温": "10",
+            "最低気温": "3",
+            "降水確率": "30"
+        },
         "20210104": {
             "日付": "20210104",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
-            "最高気温": "7",
-            "最低気温": "1",
+            "最高気温": "9",
+            "最低気温": "2",
             "降水確率": "40"
         },
         "20210105": {
             "日付": "20210105",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "最高気温": "3",
-            "最低気温": "-1",
-            "降水確率": "40"
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
+            "天気": "くもり時々晴れ",
+            "最高気温": "6",
+            "最低気温": "1",
+            "降水確率": "30"
         },
         "20210106": {
             "日付": "20210106",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "最高気温": "5",
-            "最低気温": "-1",
-            "降水確率": "20"
+            "最低気温": "0",
+            "降水確率": "40"
         }
     }
 }
