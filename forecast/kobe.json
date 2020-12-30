@@ -32,9 +32,9 @@
         "2020123103:00": {
             "日付": "20201231",
             "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/430.png",
-            "天気": "みぞれ",
-            "降水量": "0.5",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "1",
             "風速": "8",
             "風向": "北西"
