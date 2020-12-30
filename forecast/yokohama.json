@@ -9,21 +9,11 @@
         ]
     },
     "2days": {
-        "2020123103:00": {
-            "日付": "20201231",
-            "時刻": "03:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "3",
-            "風速": "10",
-            "風向": "北西"
-        },
         "2020123104:00": {
             "日付": "20201231",
             "時刻": "04:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "3",
             "風速": "8",
@@ -32,20 +22,20 @@
         "2020123105:00": {
             "日付": "20201231",
             "時刻": "05:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "3",
+            "気温": "2",
             "風速": "6",
             "風向": "北西"
         },
         "2020123106:00": {
             "日付": "20201231",
             "時刻": "06:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "3",
+            "気温": "2",
             "風速": "6",
             "風向": "北北西"
         },
@@ -353,11 +343,11 @@
     "10days": {
         "20210101": {
             "日付": "20210101",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
-            "天気": "晴れ時々くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "天気": "晴れ",
             "最高気温": "11",
-            "最低気温": "3",
-            "降水確率": "20"
+            "最低気温": "4",
+            "降水確率": "10"
         },
         "20210102": {
             "日付": "20210102",
