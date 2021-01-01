@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2021010114:00": {
-            "日付": "20210101",
-            "時刻": "14:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
-            "天気": "晴れ",
-            "降水量": "0",
-            "気温": "10",
-            "風速": "7",
-            "風向": "西北西"
-        },
         "2021010115:00": {
             "日付": "20210101",
             "時刻": "15:00",
@@ -32,7 +22,7 @@
         "2021010116:00": {
             "日付": "20210101",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "9",
@@ -205,7 +195,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "1",
+            "気温": "2",
             "風速": "1",
             "風向": "北"
         },
@@ -262,7 +252,7 @@
         "2021010215:00": {
             "日付": "20210102",
             "時刻": "15:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "10",
@@ -312,7 +302,7 @@
         "2021010220:00": {
             "日付": "20210102",
             "時刻": "20:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "4",
@@ -345,7 +335,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
             "天気": "晴れ",
             "降水量": "0",
-            "気温": "1",
+            "気温": "2",
             "風速": "4",
             "風向": "北"
         }
@@ -356,7 +346,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "最高気温": "10",
-            "最低気温": "-2",
+            "最低気温": "-3",
             "降水確率": "10"
         },
         "20210103": {
