@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2021012916:00": {
-            "日付": "20210129",
-            "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "5",
-            "風速": "5",
-            "風向": "西北西"
-        },
         "2021012917:00": {
             "日付": "20210129",
             "時刻": "17:00",
@@ -32,9 +22,9 @@
         "2021012918:00": {
             "日付": "20210129",
             "時刻": "18:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
-            "降水量": "0.5",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "3",
             "風速": "4",
             "風向": "西"
@@ -132,9 +122,9 @@
         "2021013004:00": {
             "日付": "20210130",
             "時刻": "04:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
-            "降水量": "0.5",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
+            "降水量": "0",
             "気温": "1",
             "風速": "3",
             "風向": "西南西"
@@ -333,18 +323,18 @@
     "10days": {
         "20210130": {
             "日付": "20210130",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/105.png",
-            "天気": "晴れ一時雪",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "8",
             "最低気温": "1",
-            "降水確率": "60"
+            "降水確率": "20"
         },
         "20210131": {
             "日付": "20210131",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "13",
-            "最低気温": "3",
+            "最低気温": "4",
             "降水確率": "20"
         },
         "20210201": {
