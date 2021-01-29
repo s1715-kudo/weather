@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2021012910:00": {
-            "日付": "20210129",
-            "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
-            "降水量": "0.5",
-            "気温": "2",
-            "風速": "16",
-            "風向": "西"
-        },
         "2021012911:00": {
             "日付": "20210129",
             "時刻": "11:00",
@@ -34,7 +24,7 @@
             "時刻": "12:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
-            "降水量": "0.5",
+            "降水量": "1",
             "気温": "2",
             "風速": "17",
             "風向": "西"
@@ -44,7 +34,7 @@
             "時刻": "13:00",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
-            "降水量": "0.5",
+            "降水量": "1",
             "気温": "2",
             "風速": "17",
             "風向": "西"
@@ -366,8 +356,8 @@
             "天気": "みぞれ",
             "降水量": "1",
             "気温": "2",
-            "風速": "6",
-            "風向": "西北西"
+            "風速": "10",
+            "風向": "北西"
         },
         "2021013022:00": {
             "日付": "20210130",
@@ -376,7 +366,7 @@
             "天気": "みぞれ",
             "降水量": "1",
             "気温": "1",
-            "風速": "7",
+            "風速": "11",
             "風向": "北西"
         },
         "2021013023:00": {
@@ -401,10 +391,10 @@
         },
         "20210131": {
             "日付": "20210131",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/260.png",
             "天気": "くもり一時雪",
-            "最高気温": "6",
-            "最低気温": "-1",
+            "最高気温": "4",
+            "最低気温": "1",
             "降水確率": "60"
         },
         "20210201": {
@@ -412,22 +402,22 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/202.png",
             "天気": "くもり一時雨",
             "最高気温": "8",
-            "最低気温": "-1",
+            "最低気温": "-2",
             "降水確率": "60"
         },
         "20210202": {
             "日付": "20210202",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/203.png",
-            "天気": "くもり一時雨",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/315.png",
+            "天気": "雨のち時々雪",
             "最高気温": "6",
             "最低気温": "0",
-            "降水確率": "60"
+            "降水確率": "90"
         },
         "20210203": {
             "日付": "20210203",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/270.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
             "天気": "くもり一時雪",
-            "最高気温": "4",
+            "最高気温": "3",
             "最低気温": "-2",
             "降水確率": "60"
         },
@@ -435,40 +425,40 @@
             "日付": "20210204",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/207.png",
             "天気": "くもり一時雨",
-            "最高気温": "6",
-            "最低気温": "0",
+            "最高気温": "7",
+            "最低気温": "-1",
             "降水確率": "60"
         },
         "20210205": {
             "日付": "20210205",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/207.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/203.png",
             "天気": "くもり一時雨",
-            "最高気温": "7",
+            "最高気温": "8",
             "最低気温": "1",
             "降水確率": "60"
         },
         "20210206": {
             "日付": "20210206",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/260.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
             "天気": "くもり一時雪",
             "最高気温": "6",
-            "最低気温": "0",
+            "最低気温": "1",
             "降水確率": "60"
         },
         "20210207": {
             "日付": "20210207",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/270.png",
-            "天気": "くもり一時雪",
-            "最高気温": "4",
-            "最低気温": "-1",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/207.png",
+            "天気": "くもり一時雨",
+            "最高気温": "9",
+            "最低気温": "1",
             "降水確率": "60"
         },
         "20210208": {
             "日付": "20210208",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/270.png",
             "天気": "くもり一時雪",
-            "最高気温": "6",
-            "最低気温": "-1",
+            "最高気温": "5",
+            "最低気温": "0",
             "降水確率": "60"
         }
     }
