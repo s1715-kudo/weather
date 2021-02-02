@@ -341,8 +341,8 @@
         },
         "20210204": {
             "日付": "20210204",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/403.png",
+            "天気": "雪時々雨",
             "最高気温": "4",
             "最低気温": "-1",
             "降水確率": "80"
