@@ -333,11 +333,11 @@
     "10days": {
         "20210204": {
             "日付": "20210204",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/211.png",
-            "天気": "くもりのち時々晴れ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
+            "天気": "晴れ時々くもり",
             "最高気温": "12",
             "最低気温": "-1",
-            "降水確率": "30"
+            "降水確率": "20"
         },
         "20210205": {
             "日付": "20210205",
