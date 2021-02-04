@@ -12,7 +12,7 @@
         "2021020414:00": {
             "日付": "20210204",
             "時刻": "14:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "11",
@@ -353,11 +353,11 @@
     "10days": {
         "20210205": {
             "日付": "20210205",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/103.png",
-            "天気": "晴れ一時雨",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/111.png",
+            "天気": "晴れのち時々くもり",
             "最高気温": "12",
             "最低気温": "1",
-            "降水確率": "60"
+            "降水確率": "30"
         },
         "20210206": {
             "日付": "20210206",
