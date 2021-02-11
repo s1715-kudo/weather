@@ -9,21 +9,11 @@
         ]
     },
     "2days": {
-        "2021021111:00": {
-            "日付": "20210211",
-            "時刻": "11:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "9",
-            "風速": "2",
-            "風向": "北東"
-        },
         "2021021112:00": {
             "日付": "20210211",
             "時刻": "12:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "11",
             "風速": "2",
@@ -32,8 +22,8 @@
         "2021021113:00": {
             "日付": "20210211",
             "時刻": "13:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/600.png",
+            "天気": "晴れ",
             "降水量": "0",
             "気温": "11",
             "風速": "2",
@@ -433,7 +423,7 @@
             "日付": "20210218",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/201.png",
             "天気": "くもり時々晴れ",
-            "最高気温": "-1",
+            "最高気温": "0",
             "最低気温": "-7",
             "降水確率": "30"
         },
@@ -442,23 +432,23 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
             "最高気温": "6",
-            "最低気温": "-5",
+            "最低気温": "-6",
             "降水確率": "20"
         },
         "20210220": {
             "日付": "20210220",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "10",
-            "最低気温": "-5",
+            "最高気温": "13",
+            "最低気温": "-3",
             "降水確率": "20"
         },
         "20210221": {
             "日付": "20210221",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/101.png",
             "天気": "晴れ時々くもり",
-            "最高気温": "14",
-            "最低気温": "1",
+            "最高気温": "12",
+            "最低気温": "-1",
             "降水確率": "20"
         }
     }
