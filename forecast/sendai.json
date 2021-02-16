@@ -9,16 +9,6 @@
         ]
     },
     "2days": {
-        "2021021614:00": {
-            "日付": "20210216",
-            "時刻": "14:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
-            "気温": "5",
-            "風速": "11",
-            "風向": "西"
-        },
         "2021021615:00": {
             "日付": "20210216",
             "時刻": "15:00",
@@ -162,9 +152,9 @@
         "2021021705:00": {
             "日付": "20210217",
             "時刻": "05:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
+            "天気": "雪",
+            "降水量": "0.5",
             "気温": "1",
             "風速": "1",
             "風向": "南西"
@@ -172,9 +162,9 @@
         "2021021706:00": {
             "日付": "20210217",
             "時刻": "06:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
-            "天気": "くもり",
-            "降水量": "0",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
+            "天気": "雪",
+            "降水量": "0.5",
             "気温": "0",
             "風速": "1",
             "風向": "南西"
@@ -212,8 +202,8 @@
         "2021021710:00": {
             "日付": "20210217",
             "時刻": "10:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "2",
             "風速": "5",
@@ -272,8 +262,8 @@
         "2021021716:00": {
             "日付": "20210217",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
-            "天気": "雪",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
+            "天気": "くもり",
             "降水量": "0",
             "気温": "2",
             "風速": "7",
