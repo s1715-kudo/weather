@@ -32,7 +32,7 @@
         "2021021618:00": {
             "日付": "20210216",
             "時刻": "18:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/500.png",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/100.png",
             "天気": "晴れ",
             "降水量": "0",
             "気温": "10",
@@ -343,7 +343,7 @@
             "日付": "20210218",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/204.png",
             "天気": "くもり一時雪",
-            "最高気温": "7",
+            "最高気温": "6",
             "最低気温": "2",
             "降水確率": "60"
         },
