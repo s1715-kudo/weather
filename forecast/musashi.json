@@ -15,7 +15,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
             "降水量": "0",
-            "気温": "3",
+            "気温": "2",
             "風速": "11",
             "風向": "西"
         },
@@ -25,7 +25,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "3",
+            "気温": "2",
             "風速": "11",
             "風向": "西"
         },
@@ -35,7 +35,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/200.png",
             "天気": "くもり",
             "降水量": "0",
-            "気温": "3",
+            "気温": "2",
             "風速": "11",
             "風向": "西"
         },
@@ -105,7 +105,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
             "降水量": "0",
-            "気温": "0",
+            "気温": "1",
             "風速": "7",
             "風向": "西北西"
         },
@@ -145,7 +145,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
             "降水量": "0",
-            "気温": "-1",
+            "気温": "0",
             "風速": "5",
             "風向": "西"
         },
@@ -155,7 +155,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
             "降水量": "0",
-            "気温": "-1",
+            "気温": "0",
             "風速": "5",
             "風向": "西"
         },
@@ -165,7 +165,7 @@
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
             "天気": "雪",
             "降水量": "0",
-            "気温": "-1",
+            "気温": "0",
             "風速": "5",
             "風向": "西"
         },
@@ -355,8 +355,8 @@
             "日付": "20210218",
             "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/413.png",
             "天気": "雪のちくもり",
-            "最高気温": "6",
-            "最低気温": "-1",
+            "最高気温": "5",
+            "最低気温": "0",
             "降水確率": "70"
         },
         "20210219": {
