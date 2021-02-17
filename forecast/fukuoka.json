@@ -22,10 +22,10 @@
         "2021021716:00": {
             "日付": "20210217",
             "時刻": "16:00",
-            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/430.png",
-            "天気": "みぞれ",
+            "icon": "https://smtgvs.weathernews.jp/onebox/img/wxicon/400.png",
+            "天気": "雪",
             "降水量": "0.5",
-            "気温": "4",
+            "気温": "3",
             "風速": "13",
             "風向": "西北西"
         },
